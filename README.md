@@ -3,7 +3,7 @@
 A modern, realtime collaborative task manager inspired by Trello/Kanban boards. Built as a full-stack web app to showcase Next.js + Firebase integration with AI-assisted development (using Google Antigravity agent).
 
 ### Live Demo
-[https://your-vercel-link.vercel.app](https://collaborative-todo-app-lime.vercel.app/)]
+https://collaborative-todo-app-lime.vercel.app/
 
 ### Features
 - Google Authentication & user avatars
